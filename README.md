@@ -1,3 +1,4 @@
+```
 class LoginSystem:
     def _init_(self):
         self.filename = "usuarios.txt"
@@ -41,4 +42,4 @@ while True:
     elif opcao == "3":
         break
     else:
-        print("Opção inválida. Digite novamente.")
+        print("Opção inválida. Digite novamente.")```
